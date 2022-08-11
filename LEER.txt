@@ -1,0 +1,5 @@
+******* PROYECTOS REALIZADOS EN CIRCUITOS DIGITALES II *******
+
+ PROYECTOS DOCUMENTADOS:
+ domotica sin seguridad.X
+ proyectoDomotica.X
